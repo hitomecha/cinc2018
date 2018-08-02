@@ -1,0 +1,204 @@
+2018-08-02 12:14:07,263 __main__ 27 [INFO][<module>] start 
+2018-08-02 12:19:29,163 __main__ 27 [INFO][<module>] start 
+2018-08-02 12:20:10,104 __main__ 27 [INFO][<module>] start 
+2018-08-02 12:20:10,147 __main__ 31 [INFO][<module>] data load end 
+2018-08-02 12:23:02,128 __main__ 27 [INFO][<module>] start 
+2018-08-02 12:23:02,169 __main__ 31 [INFO][<module>] data load end 
+2018-08-02 12:25:44,918 __main__ 27 [INFO][<module>] start 
+2018-08-02 12:25:45,180 __main__ 31 [INFO][<module>] data :                                  header     ...     is_training
+0    ./training/tr05-1624/tr05-1624.hea     ...            True
+1    ./training/tr03-0955/tr03-0955.hea     ...            True
+2    ./training/tr07-0830/tr07-0830.hea     ...            True
+3    ./training/tr09-0507/tr09-0507.hea     ...            True
+4    ./training/tr07-0585/tr07-0585.hea     ...            True
+5    ./training/tr03-0141/tr03-0141.hea     ...            True
+6    ./training/tr08-0280/tr08-0280.hea     ...            True
+7    ./training/tr03-1226/tr03-1226.hea     ...            True
+8    ./training/tr07-0291/tr07-0291.hea     ...            True
+9    ./training/tr09-0175/tr09-0175.hea     ...            True
+10   ./training/tr03-0793/tr03-0793.hea     ...            True
+11   ./training/tr12-0058/tr12-0058.hea     ...            True
+12   ./training/tr06-0532/tr06-0532.hea     ...            True
+13   ./training/tr09-0436/tr09-0436.hea     ...            True
+14   ./training/tr12-0241/tr12-0241.hea     ...            True
+15   ./training/tr04-1032/tr04-1032.hea     ...            True
+16   ./training/tr13-0255/tr13-0255.hea     ...            True
+17   ./training/tr13-0250/tr13-0250.hea     ...            True
+18   ./training/tr06-0802/tr06-0802.hea     ...            True
+19   ./training/tr14-0064/tr14-0064.hea     ...            True
+20   ./training/tr05-0193/tr05-0193.hea     ...            True
+21   ./training/tr07-0162/tr07-0162.hea     ...            True
+22   ./training/tr06-0570/tr06-0570.hea     ...            True
+23   ./training/tr11-0200/tr11-0200.hea     ...            True
+24   ./training/tr05-1716/tr05-1716.hea     ...            True
+25   ./training/tr11-0708/tr11-0708.hea     ...            True
+26   ./training/tr04-0570/tr04-0570.hea     ...            True
+27   ./training/tr05-0471/tr05-0471.hea     ...            True
+28   ./training/tr09-0049/tr09-0049.hea     ...            True
+29   ./training/tr13-0425/tr13-0425.hea     ...            True
+..                                  ...     ...             ...
+964  ./training/tr03-0885/tr03-0885.hea     ...            True
+965  ./training/tr05-0635/tr05-0635.hea     ...            True
+966  ./training/tr03-0473/tr03-0473.hea     ...            True
+967  ./training/tr03-0257/tr03-0257.hea     ...            True
+968  ./training/tr06-0827/tr06-0827.hea     ...            True
+969  ./training/tr04-0041/tr04-0041.hea     ...            True
+970  ./training/tr07-0752/tr07-0752.hea     ...            True
+971  ./training/tr03-1319/tr03-1319.hea     ...            True
+972  ./training/tr08-0105/tr08-0105.hea     ...            True
+973  ./training/tr11-0059/tr11-0059.hea     ...            True
+974  ./training/tr03-1362/tr03-1362.hea     ...            True
+975  ./training/tr12-0607/tr12-0607.hea     ...            True
+976  ./training/tr10-0512/tr10-0512.hea     ...            True
+977  ./training/tr12-0438/tr12-0438.hea     ...            True
+978  ./training/tr05-1591/tr05-1591.hea     ...            True
+979  ./training/tr09-0489/tr09-0489.hea     ...            True
+980  ./training/tr05-0784/tr05-0784.hea     ...            True
+981  ./training/tr10-0447/tr10-0447.hea     ...            True
+982  ./training/tr05-1575/tr05-1575.hea     ...            True
+983  ./training/tr13-0374/tr13-0374.hea     ...            True
+984  ./training/tr04-0008/tr04-0008.hea     ...            True
+985  ./training/tr07-0036/tr07-0036.hea     ...            True
+986  ./training/tr04-1034/tr04-1034.hea     ...            True
+987  ./training/tr06-0880/tr06-0880.hea     ...            True
+988  ./training/tr03-1231/tr03-1231.hea     ...            True
+989  ./training/tr11-0432/tr11-0432.hea     ...            True
+990  ./training/tr08-0315/tr08-0315.hea     ...            True
+991  ./training/tr06-0242/tr06-0242.hea     ...            True
+992  ./training/tr04-0699/tr04-0699.hea     ...            True
+993  ./training/tr12-0135/tr12-0135.hea     ...            True
+
+[994 rows x 4 columns] 
+2018-08-02 12:25:45,180 __main__ 32 [INFO][<module>] data load end 
+2018-08-02 12:27:43,761 __main__ 27 [INFO][<module>] start 
+2018-08-02 12:27:43,869 __main__ 31 [INFO][<module>] data :                               header arousal                          signal  is_training
+994   ./test/te06-0273/te06-0273.hea          ./test/te06-0273/te06-0273.mat        False
+995   ./test/te09-0174/te09-0174.hea          ./test/te09-0174/te09-0174.mat        False
+996   ./test/te07-0361/te07-0361.hea          ./test/te07-0361/te07-0361.mat        False
+997   ./test/te03-1072/te03-1072.hea          ./test/te03-1072/te03-1072.mat        False
+998   ./test/te06-0342/te06-0342.hea          ./test/te06-0342/te06-0342.mat        False
+999   ./test/te11-0697/te11-0697.hea          ./test/te11-0697/te11-0697.mat        False
+1000  ./test/te07-0004/te07-0004.hea          ./test/te07-0004/te07-0004.mat        False
+1001  ./test/te11-0077/te11-0077.hea          ./test/te11-0077/te11-0077.mat        False
+1002  ./test/te05-1640/te05-1640.hea          ./test/te05-1640/te05-1640.mat        False
+1003  ./test/te03-0284/te03-0284.hea          ./test/te03-0284/te03-0284.mat        False
+1004  ./test/te03-1325/te03-1325.hea          ./test/te03-1325/te03-1325.mat        False
+1005  ./test/te13-0456/te13-0456.hea          ./test/te13-0456/te13-0456.mat        False
+1006  ./test/te03-0858/te03-0858.hea          ./test/te03-0858/te03-0858.mat        False
+1007  ./test/te04-0424/te04-0424.hea          ./test/te04-0424/te04-0424.mat        False
+1008  ./test/te04-0496/te04-0496.hea          ./test/te04-0496/te04-0496.mat        False
+1009  ./test/te06-0766/te06-0766.hea          ./test/te06-0766/te06-0766.mat        False
+1010  ./test/te12-0547/te12-0547.hea          ./test/te12-0547/te12-0547.mat        False
+1011  ./test/te03-1133/te03-1133.hea          ./test/te03-1133/te03-1133.mat        False
+1012  ./test/te12-0584/te12-0584.hea          ./test/te12-0584/te12-0584.mat        False
+1013  ./test/te09-0231/te09-0231.hea          ./test/te09-0231/te09-0231.mat        False
+1014  ./test/te05-0073/te05-0073.hea          ./test/te05-0073/te05-0073.mat        False
+1015  ./test/te06-1118/te06-1118.hea          ./test/te06-1118/te06-1118.mat        False
+1016  ./test/te10-0684/te10-0684.hea          ./test/te10-0684/te10-0684.mat        False
+1017  ./test/te09-0481/te09-0481.hea          ./test/te09-0481/te09-0481.mat        False
+1018  ./test/te12-0556/te12-0556.hea          ./test/te12-0556/te12-0556.mat        False
+1019  ./test/te13-0066/te13-0066.hea          ./test/te13-0066/te13-0066.mat        False
+1020  ./test/te14-0271/te14-0271.hea          ./test/te14-0271/te14-0271.mat        False
+1021  ./test/te06-0001/te06-0001.hea          ./test/te06-0001/te06-0001.mat        False
+1022  ./test/te06-0067/te06-0067.hea          ./test/te06-0067/te06-0067.mat        False
+1023  ./test/te11-0164/te11-0164.hea          ./test/te11-0164/te11-0164.mat        False
+...                              ...     ...                             ...          ...
+1953  ./test/te03-1067/te03-1067.hea          ./test/te03-1067/te03-1067.mat        False
+1954  ./test/te04-0832/te04-0832.hea          ./test/te04-0832/te04-0832.mat        False
+1955  ./test/te06-0396/te06-0396.hea          ./test/te06-0396/te06-0396.mat        False
+1956  ./test/te03-0975/te03-0975.hea          ./test/te03-0975/te03-0975.mat        False
+1957  ./test/te05-0369/te05-0369.hea          ./test/te05-0369/te05-0369.mat        False
+1958  ./test/te12-0498/te12-0498.hea          ./test/te12-0498/te12-0498.mat        False
+1959  ./test/te03-0445/te03-0445.hea          ./test/te03-0445/te03-0445.mat        False
+1960  ./test/te05-1621/te05-1621.hea          ./test/te05-1621/te05-1621.mat        False
+1961  ./test/te06-0088/te06-0088.hea          ./test/te06-0088/te06-0088.mat        False
+1962  ./test/te07-0014/te07-0014.hea          ./test/te07-0014/te07-0014.mat        False
+1963  ./test/te03-0676/te03-0676.hea          ./test/te03-0676/te03-0676.mat        False
+1964  ./test/te07-0218/te07-0218.hea          ./test/te07-0218/te07-0218.mat        False
+1965  ./test/te13-0530/te13-0530.hea          ./test/te13-0530/te13-0530.mat        False
+1966  ./test/te09-0046/te09-0046.hea          ./test/te09-0046/te09-0046.mat        False
+1967  ./test/te03-0805/te03-0805.hea          ./test/te03-0805/te03-0805.mat        False
+1968  ./test/te07-0683/te07-0683.hea          ./test/te07-0683/te07-0683.mat        False
+1969  ./test/te13-0634/te13-0634.hea          ./test/te13-0634/te13-0634.mat        False
+1970  ./test/te06-0793/te06-0793.hea          ./test/te06-0793/te06-0793.mat        False
+1971  ./test/te04-0697/te04-0697.hea          ./test/te04-0697/te04-0697.mat        False
+1972  ./test/te06-0123/te06-0123.hea          ./test/te06-0123/te06-0123.mat        False
+1973  ./test/te03-1117/te03-1117.hea          ./test/te03-1117/te03-1117.mat        False
+1974  ./test/te04-0487/te04-0487.hea          ./test/te04-0487/te04-0487.mat        False
+1975  ./test/te03-1364/te03-1364.hea          ./test/te03-1364/te03-1364.mat        False
+1976  ./test/te05-1281/te05-1281.hea          ./test/te05-1281/te05-1281.mat        False
+1977  ./test/te10-0244/te10-0244.hea          ./test/te10-0244/te10-0244.mat        False
+1978  ./test/te12-0063/te12-0063.hea          ./test/te12-0063/te12-0063.mat        False
+1979  ./test/te04-0885/te04-0885.hea          ./test/te04-0885/te04-0885.mat        False
+1980  ./test/te11-0664/te11-0664.hea          ./test/te11-0664/te11-0664.mat        False
+1981  ./test/te04-0257/te04-0257.hea          ./test/te04-0257/te04-0257.mat        False
+1982  ./test/te09-0645/te09-0645.hea          ./test/te09-0645/te09-0645.mat        False
+
+[989 rows x 4 columns] 
+2018-08-02 12:27:43,870 __main__ 32 [INFO][<module>] data load end 
+2018-08-02 12:28:04,817 __main__ 27 [INFO][<module>] start 
+2018-08-02 12:28:04,928 __main__ 31 [INFO][<module>] data :                                  header     ...     is_training
+0    ./training/tr05-1624/tr05-1624.hea     ...            True
+1    ./training/tr03-0955/tr03-0955.hea     ...            True
+2    ./training/tr07-0830/tr07-0830.hea     ...            True
+3    ./training/tr09-0507/tr09-0507.hea     ...            True
+4    ./training/tr07-0585/tr07-0585.hea     ...            True
+5    ./training/tr03-0141/tr03-0141.hea     ...            True
+6    ./training/tr08-0280/tr08-0280.hea     ...            True
+7    ./training/tr03-1226/tr03-1226.hea     ...            True
+8    ./training/tr07-0291/tr07-0291.hea     ...            True
+9    ./training/tr09-0175/tr09-0175.hea     ...            True
+10   ./training/tr03-0793/tr03-0793.hea     ...            True
+11   ./training/tr12-0058/tr12-0058.hea     ...            True
+12   ./training/tr06-0532/tr06-0532.hea     ...            True
+13   ./training/tr09-0436/tr09-0436.hea     ...            True
+14   ./training/tr12-0241/tr12-0241.hea     ...            True
+15   ./training/tr04-1032/tr04-1032.hea     ...            True
+16   ./training/tr13-0255/tr13-0255.hea     ...            True
+17   ./training/tr13-0250/tr13-0250.hea     ...            True
+18   ./training/tr06-0802/tr06-0802.hea     ...            True
+19   ./training/tr14-0064/tr14-0064.hea     ...            True
+20   ./training/tr05-0193/tr05-0193.hea     ...            True
+21   ./training/tr07-0162/tr07-0162.hea     ...            True
+22   ./training/tr06-0570/tr06-0570.hea     ...            True
+23   ./training/tr11-0200/tr11-0200.hea     ...            True
+24   ./training/tr05-1716/tr05-1716.hea     ...            True
+25   ./training/tr11-0708/tr11-0708.hea     ...            True
+26   ./training/tr04-0570/tr04-0570.hea     ...            True
+27   ./training/tr05-0471/tr05-0471.hea     ...            True
+28   ./training/tr09-0049/tr09-0049.hea     ...            True
+29   ./training/tr13-0425/tr13-0425.hea     ...            True
+..                                  ...     ...             ...
+964  ./training/tr03-0885/tr03-0885.hea     ...            True
+965  ./training/tr05-0635/tr05-0635.hea     ...            True
+966  ./training/tr03-0473/tr03-0473.hea     ...            True
+967  ./training/tr03-0257/tr03-0257.hea     ...            True
+968  ./training/tr06-0827/tr06-0827.hea     ...            True
+969  ./training/tr04-0041/tr04-0041.hea     ...            True
+970  ./training/tr07-0752/tr07-0752.hea     ...            True
+971  ./training/tr03-1319/tr03-1319.hea     ...            True
+972  ./training/tr08-0105/tr08-0105.hea     ...            True
+973  ./training/tr11-0059/tr11-0059.hea     ...            True
+974  ./training/tr03-1362/tr03-1362.hea     ...            True
+975  ./training/tr12-0607/tr12-0607.hea     ...            True
+976  ./training/tr10-0512/tr10-0512.hea     ...            True
+977  ./training/tr12-0438/tr12-0438.hea     ...            True
+978  ./training/tr05-1591/tr05-1591.hea     ...            True
+979  ./training/tr09-0489/tr09-0489.hea     ...            True
+980  ./training/tr05-0784/tr05-0784.hea     ...            True
+981  ./training/tr10-0447/tr10-0447.hea     ...            True
+982  ./training/tr05-1575/tr05-1575.hea     ...            True
+983  ./training/tr13-0374/tr13-0374.hea     ...            True
+984  ./training/tr04-0008/tr04-0008.hea     ...            True
+985  ./training/tr07-0036/tr07-0036.hea     ...            True
+986  ./training/tr04-1034/tr04-1034.hea     ...            True
+987  ./training/tr06-0880/tr06-0880.hea     ...            True
+988  ./training/tr03-1231/tr03-1231.hea     ...            True
+989  ./training/tr11-0432/tr11-0432.hea     ...            True
+990  ./training/tr08-0315/tr08-0315.hea     ...            True
+991  ./training/tr06-0242/tr06-0242.hea     ...            True
+992  ./training/tr04-0699/tr04-0699.hea     ...            True
+993  ./training/tr12-0135/tr12-0135.hea     ...            True
+
+[994 rows x 4 columns] 
+2018-08-02 12:28:04,928 __main__ 32 [INFO][<module>] data load end 
